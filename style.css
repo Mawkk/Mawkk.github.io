@@ -152,8 +152,14 @@ body {
   cursor: pointer;
   border: 1px solid #F4C2C2;
   box-shadow: #F4C2C2;
-  background-color:#F4C2C2;
-  
-            
-  
+  background-color:#F4C2C2;  
 }
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  position: absolute;
+  bottom: 30px;
+}
+
