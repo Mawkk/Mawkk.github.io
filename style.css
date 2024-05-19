@@ -38,6 +38,7 @@ body {
   width: 60%;
   position: absolute;
   left: 50.1%;
+  font-size: 12px;
 }
 .inside {
   background: linear-gradient(to right, #F4C2C2, #F4C2C2 30%);
